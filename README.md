@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Arif Martadinata</h1>
-<h3 align="center">I'm a semester 4 student with a S1 Computer Science major. I have experience in the fields of Mobile Developer and FullStack Developer. Since High School of Management I have been studying the field of Web and since college I have attended several organizations. Besides having considerable experience in organizations, I am also deepening my knowledge in Web Programming as well as Mobile</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Arif Martadinata</h1>
+<p align="left">I'm a semester 4 student with a S1 Computer Science major. I have experience in the fields of Mobile Developer and FullStack Developer. Since High School of Management I have been studying the field of Web and since college I have attended several organizations. Besides having considerable experience in organizations, I am also deepening my knowledge in Web Programming as well as Mobile</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadarifmartadinataa&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadarifmartadinataa" /> </p>
 
-- 🌱 I’m currently learning **Laravel,Flutter**
-
-- 💬 Ask me about **Android,Web**
-
+- 🧑‍💻 Creating Website
+- ✨ I’m currently learning **Laravel,Flutter**
+- ✈️ Goals : Be the Profesional  Backend Developer
 - 📫 How to reach me **muhammadarifmartadinata@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
