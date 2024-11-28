@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadarifmartadinataa&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadarifmartadinataa" /> </p>
 
 - 🧑‍💻 Creating Website
-- ✨ I’m currently learning **Laravel,Flutter**
+- ✨ I’m currently learning **Laravel,Golang**
 - ✈️ Goals : Be the Profesional  Backend Developer
 - 📫 How to reach me **muhammadarifmartadinata@gmail.com**
 
