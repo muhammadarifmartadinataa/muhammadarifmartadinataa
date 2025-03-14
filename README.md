@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Muhammad Arif Martadinata</h1>
-<p align="left">I'm a semester 5 student with a S1 Computer Science major. I have experience in the fields of Mobile Developer and FullStack Developer. Since High School of Management I have been studying the field of Web and since college I have attended several organizations. Besides having considerable experience in organizations, I am also deepening my knowledge in Web Programming as well as Mobile</p>
+<p align="left">I am a 6th-semester active student majoring in Informatics with over 4 years of experience in website development as a full-stack and backend developer. I have expertise in full-stack development using PHP with the Laravel framework. Additionally, I specialize in backend development using Go.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadarifmartadinataa&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadarifmartadinataa" /> </p>
 
